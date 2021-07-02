@@ -5,15 +5,16 @@
     - ⚽️	Soccer Fan
 
 - What I strive at: 
-	- 🧙🏻‍♀️ Building beautiful features that are modern, responsive and inutitive
+	- 🧙🏻‍♀️ Building beautiful features that are modern, scalable, responsive and inutitive
 	- 👷🏻 Delivering reliable and performant software 
-	- 👩🏻‍🎨	Working on difficult software and UX problems	
-	
+	- 👩🏻‍🎨 Working on difficult software and UX problems	
+		
 - What my experiences are: 
-	- 💪 Building frontend/backend application with object-orineted programming
+	- 💪 Building reliable frontend/backend application
 		- ⌨️ Languages: Javascript, Python
 		- 🖥 Front End: React, Redux, JQuery, SASS ...etc
 		- ⚙ Back End: PSQL, Flask, Rails, PHP, GraphQL ...etc
+		- 🎯 Testing: Mocha, Chai, Jest, Cypress, Storybook 
 
 - How I'm trying to get better:
 	- 🌱 Learning Java, Typescrypt and Angular 
