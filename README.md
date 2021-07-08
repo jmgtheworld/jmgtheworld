@@ -5,7 +5,7 @@
     - ⚽️	Soccer Fan
 
 - What I strive at: 
-	- 🧙🏻‍♀️ Building beautiful features that are modern, scalable, responsive and inutitive
+	- 🧙🏻‍♀️ Building beautiful features that are modern, scalable, responsive and intuitive
 	- 👷🏻 Delivering reliable and performant software 
 	- 👩🏻‍🎨 Working on difficult software and UX problems	
 		
