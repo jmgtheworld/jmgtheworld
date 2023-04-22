@@ -17,9 +17,8 @@
 		- 🎯 Testing: Mocha, Chai, Jest, Cypress, Storybook 
 
 - How I'm trying to get better:
-	- 🌱 Learning Java, Typescrypt and Angular 
+	- 🌱 Learning NextJS, Vite
 
-📫 Feel free to have a peek at my portfolio: https://jmg-aboutme.herokuapp.com/
 <!---
 jmgtheworld/jmgtheworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
